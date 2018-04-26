@@ -65,7 +65,6 @@ public class MainActivity extends AppCompatActivity {
         pais.add(new Pais("Canada", R.drawable.canada,"Vistas panoramicas"));
         pais.add(new Pais("Chile", R.drawable.chile,"Montaña"));
         pais.add(new Pais("Egipto", R.drawable.egipto,"Piramide"));
-        pais.add(new Pais("España", R.drawable.españa,"Metropolis"));
         pais.add(new Pais("Francia", R.drawable.francia,"Torre eiffel"));
         pais.add(new Pais("Mexico", R.drawable.mexico,"Sitio arqueologico"));
         pais.add(new Pais("Estados Unidos", R.drawable.usa,"Estatua de la libertad"));
