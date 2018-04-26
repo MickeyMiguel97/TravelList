@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">TravelList</string>
-    <string name="games">games</string>
-    <string name="bookmark">bookmark</string>
+    <string name="Paises">games</string>
+    <string name="Viajar">bookmark</string>
 </resources>

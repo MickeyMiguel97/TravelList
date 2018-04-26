@@ -59,10 +59,16 @@ public class MainActivity extends AppCompatActivity {
 
         String TAG = "Mensaje";
         pais= new ArrayList<>();
-        pais.add(new Pais("Counter Strike", R.drawable.twd,"A FPS game"));
-        pais.add(new Pais("Hollow Knight", R.drawable.twd,"A Platform game"));
-        pais.add(new Pais("Fortnite", R.drawable.twd,"A Survival game"));
-        pais.add(new Pais("God of War", R.drawable.twd,"An Action-adventure game"));
+        pais.add(new Pais("Alemania", R.drawable.alemania,"Pueblos"));
+        pais.add(new Pais("Argentina", R.drawable.argentina,"Patagonia"));
+        pais.add(new Pais("Brasil", R.drawable.brasil,"Cristo"));
+        pais.add(new Pais("Canada", R.drawable.canada,"Vistas panoramicas"));
+        pais.add(new Pais("Chile", R.drawable.chile,"Montaña"));
+        pais.add(new Pais("Egipto", R.drawable.egipto,"Piramide"));
+        pais.add(new Pais("España", R.drawable.españa,"Metropolis"));
+        pais.add(new Pais("Francia", R.drawable.francia,"Torre eiffel"));
+        pais.add(new Pais("Mexico", R.drawable.mexico,"Sitio arqueologico"));
+        pais.add(new Pais("Estados Unidos", R.drawable.usa,"Estatua de la libertad"));
 
     }
     //funcion para agregar a los marcadores

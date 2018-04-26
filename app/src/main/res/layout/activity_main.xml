@@ -17,7 +17,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:onClick="boton1_list"
-            android:text="@string/games" />
+            android:text="@string/Paises" />
 
         <Button
             android:id="@+id/fav"
@@ -25,7 +25,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:onClick="boton2_bookmark"
-            android:text="@string/bookmark" />
+            android:text="@string/Viajar" />
 
     </LinearLayout>
 
